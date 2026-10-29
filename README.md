@@ -1,2 +1,5 @@
-# ProblemVault
-A collection of coding problems and solutions from various platforms, documenting my daily practice, improving problem-solving skills, and tracking my growth as a developer. One problem at a time, one step closer to mastery.
+# Coding Practice 
+
+This repo is where I upload the coding questions I solve, along with their solutions. Just keeping track of my progress, learning new things, and getting better at problem-solving one question at a time.
+
+Still learning, still improving. 🚀
